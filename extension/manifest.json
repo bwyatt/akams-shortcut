@@ -1,6 +1,7 @@
 {
     "name": "Faster aka.ms",
     "version": "1.0",
+    "manifest_version": 3,
     "omnibox": { "keyword" : "a" },
     "icons": {
       "16": "img/16-full-color.png"
