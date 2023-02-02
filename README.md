@@ -7,7 +7,7 @@ _TODO: Add Edge and Chrome store links_
 
 Type `a` and press `space` or `tab`, then type the shortcut you want (the part after `https://aka.ms/`), and finally press enter. Through the magic of Javascript, you will be transported, Narnia-like, to the short URL of your specification.
 
-_TODO: Add a screenshot or gif_
+![Demonstration video](images/demo.gif)
 
 > **Note:** Because there's no intelligence in this extension, it must rely on yours. If you make a typo or specify a shortcut that doesn't exist, you won't end up where you wanted.
 
