@@ -1,11 +1,13 @@
 {
     "name": "Faster aka.ms",
     "version": "1.0",
+    "description": "Access aka.ms short links faster than ever. Save 5 whole keystrokes!",
     "manifest_version": 3,
     "omnibox": { "keyword" : "a" },
     "icons": {
       "16": "img/icon-16.png"
     },
+    "homepage_url": "https://github.com/bwyatt/akams-shortcut",
     "background": {
       "service_worker": "extension.js"
     }
