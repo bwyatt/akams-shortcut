@@ -1,7 +1,7 @@
 # Faster aka.ms
 A tiny browser extension to use `aka.ms` short URLs even faster, for maximum laziness. _Save 5 whole keystrokes!_
 
-_TODO: Add Edge and Chrome store links_
+[Install in Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/pnhmhoonhkpheikmldcpaphahmbohlma)
 
 ## How to Use It
 
